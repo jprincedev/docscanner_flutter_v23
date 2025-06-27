@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.docscanner">
+    package="com.example.docscanner_flutter_v23">
     <application
         android:label="docscanner"
         android:name="${applicationName}"
